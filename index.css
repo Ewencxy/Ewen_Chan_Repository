@@ -1,0 +1,62 @@
+
+header.masthead {
+  background: url('me.png') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+header.masthead>.overlay {
+  padding: 5rem 0;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+
+}
+#button{
+  position: absolute;
+   top: 60%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+   background-color: #555;
+   color: white;
+   font-size: 16px;
+   padding: 12px 24px;
+   border: none;
+   cursor: pointer;
+   border-radius: 5px;
+.cont{
+  position: relative;
+width: 50%;
+}
+}
+#button1{
+  position: absolute;
+  top: 20%;
+  left:20%;
+}
+#button2{
+position: absolute;
+top: 60%;
+left: 20%;
+}
+#button3{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+}
+#button4{
+  position: absolute;
+  top: 20%;
+  left:50%;
+}
+h1 {
+  color: white;
+}
+h4{
+  color: white;
+}
+body {
+  background-color: lightblue;
+}
